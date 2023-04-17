@@ -1,0 +1,17 @@
+working directory -- > staging area --> local repo.      --> remote repo.
+test-project      --> git add       --> git commit       --> git push
+
+ls 
+ls -a
+git config
+git config --global
+git config --list
+
+tracked
+untracked
+
+git diff
+git restore
+
+changes control 
+version control 
