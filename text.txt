@@ -6,12 +6,21 @@ ls -a
 git config
 git config --global
 git config --list
+git reset --> 
+git reset --soft HEAD^
+git reset --hard HEAD^
+git log 
+git log --online
+git checkout  commitId
+git checkout master
+git commit -m ""
+
 
 tracked
 untracked
 
 git diff
-git restore
+git restore 
 
 changes control 
 version control 
