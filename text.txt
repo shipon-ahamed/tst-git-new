@@ -14,6 +14,18 @@ git log --online
 git checkout  commitId
 git checkout master
 git commit -m ""
+git remote -v
+git push -u origin (url)
+git pull origin master
+git branch 
+git branch -r
+git branch -a
+git branch(branch name) ---> to create a branch
+git checkout (branch name) ---> to work with a branch
+
+git merge (branch)---> to merge to master branch
+git push ---> to push to remote repo
+git push -u origin (branch name)--> to push a branch to master or remote repo without merge(so called pull request)
 
 
 tracked
