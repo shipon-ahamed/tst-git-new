@@ -26,6 +26,9 @@ git checkout (branch name) ---> to work with a branch
 git merge (branch)---> to merge to master branch
 git push ---> to push to remote repo
 git push -u origin (branch name)--> to push a branch to master or remote repo without merge(so called pull request)
+git checkout master
+git pull --> to get all updated codes
+From master branch --- git merge branchname---> two way merge
 
 
 tracked
